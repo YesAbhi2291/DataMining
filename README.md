@@ -1,2 +1,2 @@
 # DataMining
-Data Mining Academic Project
+This project contains python code for sentiment analysis.
